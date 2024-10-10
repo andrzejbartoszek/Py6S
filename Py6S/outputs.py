@@ -195,6 +195,7 @@ class Outputs(object):
                       "coefficients xa ": (CURRENT, 5, "coef_xa", float),
                       "coefficients xa xb": (CURRENT, 6, "coef_xb", float),
                       "coefficients xa xb xc": (CURRENT, 7, "coef_xc", float),
+                      "coefficients xap": (CURRENT, 5, "coef_xap", float),
                       "int. funct filter (in mic)": (1, 0, 'int_funct_filt', float),
                       "int. sol. spect (in w/m2)": (1, 1, 'int_solar_spectrum', float),
 
