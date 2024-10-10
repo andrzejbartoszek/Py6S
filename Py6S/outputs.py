@@ -192,7 +192,7 @@ class Outputs(object):
                       "measured radiance [w/m2/sr/mic]": (CURRENT, 4, "measured_radiance", float),
                       "atmospherically corrected reflectance": (1, 3, "atmos_corrected_reflectance_lambertian", float),
                       "atmospherically corrected reflect": (2, 3, "atmos_corrected_reflectance_brdf", float),
-                      "coefficients xa": (CURRENT, 5, "coef_xa", float),
+                      "coefficients xa ": (CURRENT, 5, "coef_xa", float),
                       "coefficients xa xb": (CURRENT, 6, "coef_xb", float),
                       "coefficients xa xb xc": (CURRENT, 7, "coef_xc", float),
                       "int. funct filter (in mic)": (1, 0, 'int_funct_filt', float),
